@@ -1,0 +1,1 @@
+First notes about the challenge of the git/github challenge that requires me to make a repository and commit changes to it
